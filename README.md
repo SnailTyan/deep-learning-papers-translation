@@ -1,6 +1,5 @@
 # Deep Learning Papers Translation
 
-If you like this, star it, thanks!
 
 ## Image Classification
 
