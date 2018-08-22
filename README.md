@@ -96,8 +96,9 @@ To be added.
 
 * Wechat  
 
-![Wechat](http://img.my.csdn.net/uploads/201707/10/1499649739_3861.png)  
+<img width="275" alt="微信" src="https://user-images.githubusercontent.com/21311442/44447671-7a3dd300-a61b-11e8-88cb-d815acb67c5e.png"> 
 
 * Alipay  
 
-![AliPay](http://img.my.csdn.net/uploads/201707/10/1499649666_1343.png)
+<img width="275" alt="支付宝" src="https://user-images.githubusercontent.com/21311442/44447724-9fcadc80-a61b-11e8-96f9-6fca11b1ec56.png">
+
