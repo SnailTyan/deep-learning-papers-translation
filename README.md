@@ -100,5 +100,5 @@ To be added.
 
 * Alipay  
 
-<img width="275" alt="支付宝" src="https://user-images.githubusercontent.com/21311442/44447724-9fcadc80-a61b-11e8-96f9-6fca11b1ec56.png">
+<img width="275" alt="支付宝" src="https://user-images.githubusercontent.com/21311442/44447780-cee14e00-a61b-11e8-8538-70398f84c53a.png">
 
