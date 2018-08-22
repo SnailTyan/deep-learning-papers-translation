@@ -92,6 +92,8 @@
 * MobileNetV2  
 To be added.
 
+<!--
+
 ## Reward
 
 * Wechat  
@@ -102,3 +104,4 @@ To be added.
 
 <img width="275" alt="支付宝" src="https://user-images.githubusercontent.com/21311442/44447780-cee14e00-a61b-11e8-8538-70398f84c53a.png">
 
+-->
