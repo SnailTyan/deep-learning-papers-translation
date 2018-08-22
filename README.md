@@ -91,3 +91,13 @@
 
 * MobileNetV2  
 To be added.
+
+## Reward
+
+* Wechat  
+
+![Wechat](http://img.my.csdn.net/uploads/201707/10/1499649739_3861.png)  
+
+* Alipay  
+
+![AliPay](http://img.my.csdn.net/uploads/201707/10/1499649666_1343.png)
