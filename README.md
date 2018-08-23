@@ -96,6 +96,8 @@ To be added.
 
 ## Reward
 
+Will anyone find this?
+
 * Wechat  
 
 <img width="275" alt="微信" src="https://user-images.githubusercontent.com/21311442/44447671-7a3dd300-a61b-11e8-88cb-d815acb67c5e.png"> 
