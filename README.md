@@ -1,4 +1,4 @@
-# Deep Learning Papers Translation
+# Deep Learning Papers Translation(CV)
 
 
 ## Image Classification
